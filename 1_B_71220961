@@ -1,0 +1,2 @@
+print("SELAMAT DATANG DI PROGRAM PEMBUAT PIRAMIDA BERLUBANG")
+y=int(input("Masukkan Angka"))
